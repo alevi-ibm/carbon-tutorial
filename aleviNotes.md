@@ -2,6 +2,7 @@
 
 ## Forked the carbon-tutorial using MY Github account, then ...
 
+```
 | Anils-MBP | ~/git |
  => git clone https://github.com/carbon-design-system/carbon-tutorial.git
 Cloning into 'carbon-tutorial'...
@@ -20,4 +21,13 @@ origin  https://github.com/alevi-ibm/carbon-tutorial.git (fetch)
 origin  https://github.com/alevi-ibm/carbon-tutorial.git (push)
 upstream        https://github.com/carbon-design-system/carbon-tutorial.git (fetch)
 upstream        https://github.com/carbon-design-system/carbon-tutorial.git (push)
+
+ => git fetch upstream
+From https://github.com/carbon-design-system/carbon-tutorial
+ * [new branch]      master       -> upstream/master
+ * [new branch]      react-step-1 -> upstream/react-step-1
+ * [new branch]      react-step-2 -> upstream/react-step-2
+ * [new branch]      react-step-3 -> upstream/react-step-3
+ * [new branch]      react-step-4 -> upstream/react-step-4
+ * [new branch]      react-step-5 -> upstream/react-step-5
 
